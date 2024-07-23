@@ -1,4 +1,4 @@
-# Hi there, I'm lfian 
+# Hi there, I'm alfian 
 ## About me:
 - 🔭 I’m currently working as call center shopee 
 - 🌱 I’m currently learning Python and Javascript
