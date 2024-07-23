@@ -1,4 +1,4 @@
-# Hi there, I'm Vincealfian nt - aka [alfian suli ](https://youtu.be/jtYl2osltws?si=gIYy_8Z5zD-mqj1B
+# Hi there, I'm lfian 
 ## About me:
 - 🔭 I’m currently working as call center shopee 
 - 🌱 I’m currently learning Python and Javascript
